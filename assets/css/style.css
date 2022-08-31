@@ -67,7 +67,7 @@
     transition: transform 1s linear;
 }
 
-.rotate:active {
+.rotate:hover {
     transform: rotate(90deg) scale(2);
 }
 
